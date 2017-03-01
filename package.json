@@ -1,0 +1,17 @@
+{
+  "name": "whatsgoingon",
+  "version": "1.0.0",
+  "description": "art bot on reading the news",
+  "main": "whatsgoingon.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.1.5",
+    "node-rest-client": "^2.5.0",
+    "twit": "^2.2.5",
+    "wordfilter": "^0.2.6"
+  }
+}
